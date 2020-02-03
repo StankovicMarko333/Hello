@@ -1,0 +1,20 @@
+#tekst{
+    height: 100px;
+}
+
+#dugme{
+    position: absolute;
+}
+
+#Prvi{
+    background: padding-box 1px red;
+    height: 38px;
+    width: 85px;
+    padding: 7px 6px 7px 12px;
+    border-radius: 5px;
+}
+#ceo{
+    display: flex;
+   
+
+}
